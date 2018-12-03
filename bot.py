@@ -2,7 +2,7 @@ import discord
 import requests
 import shutil
 
-TOKEN = 'NTE4MTgyNjczODE5MzY5NDcz.DuNC_Q.0eLSTaUZNCQQf3lCU9zKVSFjHPM'
+TOKEN = 'Secret Token'
 
 client = discord.Client()
 
